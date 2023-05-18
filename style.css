@@ -1,0 +1,249 @@
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 100%;
+    column-gap: 100px;
+    align-self: center;
+    margin: 50px 60px;
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.blanqueoYDesbloqueo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 30px;
+    font-size: 17px;
+   
+}
+.iconoYNombre{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.iconoYNombre h1, .iconoYNombre i{
+    font-size: 60px;
+    color:#B49D82;
+}
+.iconoYNombre i{
+    margin-right: 40px;
+}
+
+.descripcion-formulario{
+    color:#483220;
+    font-size: 20px;
+}
+
+form{
+    margin-top: 60px;
+}
+
+.boton-ingresar, .boton-crearUsuario{
+    margin-top: 30px;
+    background-color: #B49D82;  
+    border: 0;
+    padding: 10px 90px;   
+}
+.boton-ingresar a{
+    color:#483220;
+    font-size: 17px;
+    font-weight: bolder;
+    text-decoration: none;
+}
+.recordarUsuario{
+    font-size: 15px;
+}
+.nuevoUsuario{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+.leyendaFinal {
+    font-size: 12px;
+    text-align: center;
+    margin-top: 20px;
+}
+.imagenDerecha{
+    margin-top: 20px;
+}
+.blanqueoYDesbloqueo a, .blanqueoYDesbloqueo p{
+    color:#483220
+}
+.nuevoUsuario a{
+    color:#7F644B;
+    text-decoration: none;
+    font-weight: bold;
+}
+.imagenDerecha img{
+    margin-left: 65px;
+}
+.btn-primary{
+    --bs-btn-hover-bg: #483220;
+}
+.boton-ingresar{
+    margin-left: 32%;
+}
+.nave i, .nave h1{
+    color:#B49D82;
+    font-size: 20px;
+}
+.nave{
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    margin-top: 20px;
+}
+.nave i{
+    margin: 0 20px;
+}
+header{
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+.dni-cuil-pasaporte{
+    margin-top: 50px;
+}
+.boton-nuevoCliente{
+    margin-left: 0;
+    margin-top: 100px;
+}
+.boton-crearUsuario a{
+    text-decoration: none;
+    color:white;
+}
+
+.bajar-imput{
+    margin-top: 7px;
+}
+.parte-izq{
+    background-color: #B49D82;
+}
+.main-homebanking{
+    margin: 0;
+    display: grid;
+    grid-template-columns: 0.5fr 2fr;
+    grid-template-rows: 100%;
+    background-color: #E2D8C7;
+}
+.nav-link{
+    color:#483220;
+    padding: 20px;
+    font-size: 17px;
+}
+.flex-column{
+    --bs-nav-link-hover-color: white;
+
+}
+.imagen-id{
+    width: 100%;
+}
+.menuNav-banca-empresa{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 140px;
+    margin-top: 10px;
+    padding-left: 0;
+}
+.menuNav-banca-empresa li{
+    list-style-type: none;
+}
+.boton-barranav{
+    background-color: #483220;
+    border:none;
+    color:#B49D82;
+    border-radius: 0;
+    padding: 10px 25px;
+}
+.btn-outline-warning{
+    --bs-btn-hover-bg: #B49D82;
+}
+.pagodehaberes{
+    color:#483220;
+    text-decoration: underline;
+    margin-top: 30px;
+    font-size: 50px;
+    margin-bottom: 50px;
+    
+}
+.periodo{
+    width: 150px;
+    padding: 0 20px;
+    height: 40px;
+}
+.form-pagodehaberes{
+    margin-top: 20px;
+    padding-left: 10px;
+}
+.boton-confirmar{
+    background-color: #B49D82;
+    border: none;
+}
+#usuario-ingreso{
+    font-family: 'Times New Roman', Times, serif;
+}
+.input-empleado{
+    width: 350px;
+}
+.form-check{
+    margin-bottom: 30px;
+    width: auto;
+}
+.nuevo-haber{
+    width: 100%;
+}
+#contenedor{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-right: 140px;
+    width: 100%;
+}
+.card{
+    margin-bottom: 50px;
+}
+.btn-card{
+    background-color: #B49D82;
+    border: none;
+}
+.form-nuevoEmpleado{
+    width: 100%;
+}
+#nombre-nuevo, #cuil-nuevo{
+    width: 500px;
+}
+.cuil-nuevo2{
+    width: 520px;
+}
+#boton-volver{
+    margin-left: 80%;
+    padding: 10px 40px;
+}
+
+.newEmpleado{
+    margin-left: -8px;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.newEmpleado button a{
+    text-decoration: none;
+    color:#483220
+}
+.swal2-actions .swal2-confirm a{
+    color:#E2D8C7;
+    text-decoration: none;
+}
+.swal2-actions .swal2-cancel{
+    margin-right: 10px;
+}
+#img-creditos{
+    width: 88%;
+    margin-bottom: 60px;
+}
+#h2-nuevo{
+    margin-bottom: 30px;
+    text-decoration: underline;
+}

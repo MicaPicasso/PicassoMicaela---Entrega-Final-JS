@@ -1,0 +1,68 @@
+[
+    {
+       "id":1,
+       "titulo":"Préstamo Inmediato",
+       "descripcion":"Obtené financiación a tasas preferenciales para tu proyecto de inversión o capital de trabajo.",
+       "img":"prestamo-inmediato.png"
+    },
+    {
+       "id":2,
+       "titulo":"Préstamo Prendario",
+       "descripcion":"Obtené hasta un 70% (IVA incluido) del valor de la compra de maquinarias y automotores.",
+       "img":"Prestamo-Prendario.jpg"
+    },
+    {
+       "id":3,
+       "titulo":"Venta de Cheque Electrónico",
+       "descripcion":"Vendé online tus cheques. Simulá la venta y en el momento te hacemos nuestra mejor oferta.",
+       "img":"Cheque-Electronico.png"
+    },
+    {
+       "id":4,
+       "titulo":"Acuerdo en Cuenta Corriente",
+       "descripcion":"Activá el descubierto y obtené fondos de forma inmediata en tu Cuenta Corriente. Pagá solo cuando uses el dinero.",
+       "img":"AcCtaCte.jpg"
+    },
+    {
+       "id":5,
+       "titulo":"Socios de Valor",
+       "descripcion":"Potenciá tus ventas con la mejor financiación para tus clientes. Cobrá al contado y con tasa preferencial.",
+       "img":"Socios-de-Valor.png"
+    },
+    {
+       "id":6,
+       "titulo":"Venta de Factura de Crédito Electrónica",
+       "descripcion":"Vendé tus facturas electrónicas desde Office Banking a tasas preferenciales y con acreditación automática.",
+       "img":"Factura-Cto-Electronica.png"
+    },
+    {
+       "id":7,
+       "titulo":"Compra de insumos agro",
+       "descripcion":"Financiá la compra de insumos y hacienda con más de 200 proveedores de Galicia Rural.",
+       "img":"financiacion-agro.jpg"
+    },
+    {
+       "id":8,
+       "titulo":"Préstamo de Inversión Productiva",
+       "descripcion":"Accedé a tasas competitivas con nuestros préstamos para capital de trabajo y proyectos de inversión y bienes de capital.",
+       "img":"Inversion-productiva.png"
+    },
+    {
+       "id":9,
+       "titulo":"Leasing",
+       "descripcion":"Financiá la compra de tu próximo automotor y empezá a pagar cuando ya lo hayas recibido 😉​",
+       "img":"Leasing.png"
+    },
+    {
+       "id":10,
+       "titulo":"Adelanto de cupones",
+       "descripcion":"Cobrá de forma anticipada las ventas en una cuota con tarjetas de crédito Visa, Mastercard y Cabal. ",
+       "img":"AdCupones.jpg"
+    },
+    {
+       "id":11,
+       "titulo":"Financiamiento Sostenible",
+       "descripcion":"Acompañamos proyectos sustentables que buscan disminuir el impacto ambiental.",
+       "img":"FinanciamientoSostenible.jpg"
+    }
+ ]
